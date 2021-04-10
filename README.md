@@ -1,3 +1,2 @@
 # Repo to test LastCommonCommitsFinder
-create branchB
-create branchC
+fix merge conflict
