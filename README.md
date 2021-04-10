@@ -1,1 +1,1 @@
-# RepoToTestLastCommonCommitsFinder
+# Repo to test LastCommonCommitsFinder
